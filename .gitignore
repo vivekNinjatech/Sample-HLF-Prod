@@ -5,3 +5,4 @@ fabric-explorer/organizations/ordererOrganizations
 fabric-explorer/organizations/peerOrganizations
 api-ts/node_modules
 api-ts/src/uploads
+static
